@@ -14,7 +14,10 @@ This project was designed by Mr. Joseph Santarcangelo, Data Scientist at IBM.
 - Screenshots : Screenshots_Plotly_Charts folder contains some PNG files corresponding to the plotly graphics screenshots inserted in the Jupyter Notebook.
 
 ## Results and Conclusion
-A compléter !
+This project analyzed the stock prices of Tesla and GameStop alongside their revenue data.
+- **Tesla :** The stock price increased in parallel with the company's rising revenues, indicating healthy business growth and a strong market valuation.
+- **GameStop :** While the company's revenue remained stable between $1.3B and $3.6B, the stock price surged dramatically in early 2021. This spike was driven by a speculative bubble, largely fueled by retail investors (Reddit community) creating a "short squeeze."
+This highlights the influence of external market factors on stock prices, as seen with GameStop, where the stock price did not align with the company’s financial fundamentals.
 
 ## Usage 
 - Data Visualization : Open Project_StockData.ipynb to view the evolution of Share Price with Revenue over time.
