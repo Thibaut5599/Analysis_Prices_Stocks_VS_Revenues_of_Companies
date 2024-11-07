@@ -1,4 +1,4 @@
-# Extracting and Visualizing Stock Data with Python
+# Analysis Prices of Stocks VS Revenues of associated companies
 
 This project was followed as part of the Coursera training [IBM Data Analyst Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-analyst?) during the fifth course entitled "Python Project for Data Science". It's a guided project whose main goal is to discover the yfinance API and practice Web Scraping.
 This project was designed by Mr. Joseph Santarcangelo, Data Scientist at IBM.
