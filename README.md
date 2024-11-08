@@ -10,8 +10,8 @@ This project consists of extracting stock data (Tesla and GameStop) using the yf
 - Visualize how the price of Tesla and GameStop shares has changed over time in relation to the change in revenue of these companies.
 
 ## Project Contents
-- Jupyter Notebook : Project_StockData.ipynb file shows the use of the yfinance API, the use of Web Scraping to extract data and the graphical visualization of this data.
-- Screenshots : Screenshots_Plotly_Charts folder contains some PNG files corresponding to the plotly graphics screenshots inserted in the Jupyter Notebook.
+- **Jupyter Notebook :** Project_StockData.ipynb file shows the use of the yfinance API, the use of Web Scraping to extract data and the graphical visualization of this data.
+- **Screenshots :** Screenshots_Plotly_Charts folder contains some PNG files corresponding to the plotly graphics screenshots inserted in the Jupyter Notebook.
 
 ## Results and Conclusion
 This project analyzed the stock prices of Tesla and GameStop alongside their revenue data.
@@ -20,7 +20,7 @@ This project analyzed the stock prices of Tesla and GameStop alongside their rev
 This highlights the influence of external market factors on stock prices, as seen with GameStop, where the stock price did not align with the company’s financial fundamentals.
 
 ## Usage 
-- Data Visualization : Open Project_StockData.ipynb to view the evolution of Share Price with Revenue over time.
+- **Data Visualization :** Open Project_StockData.ipynb to view the evolution of Share Price with Revenue over time.
 
 ## Authors
 Project designed by Joseph Santarcangelo (IBM), carried out by Thibaut LANNERS.
