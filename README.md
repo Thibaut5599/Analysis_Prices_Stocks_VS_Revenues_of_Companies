@@ -23,4 +23,4 @@ This highlights the influence of external market factors on stock prices, as see
 - Data Visualization : Open Project_StockData.ipynb to view the evolution of Share Price with Revenue over time.
 
 ## Authors
-Project by Joseph Santarcangelo (IBM), carried out by Thibaut LANNERS.
+Project designed by Joseph Santarcangelo (IBM), carried out by Thibaut LANNERS.
