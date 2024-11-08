@@ -20,9 +20,9 @@ This project analyzed the stock prices of Tesla and GameStop alongside their rev
 This highlights the influence of external market factors on stock prices, as seen with GameStop, where the stock price did not align with the company’s financial fundamentals.
 
 ## Usage 
-1. **Clone the repository :**\
+1. **Clone the repository ** (Enter the following command in a terminal) :\
    git clone https://github.com/Thibaut5599/Analysis_Prices_Stocks_VS_Revenues_of_Companies.git
-2. **Open the Jupyter Notebook :** Once you have cloned the repository, open Analysis_Prices_Stocks_VS_Revenues_of_Companies.ipynb file using Jupyter Notebook or JupyterLab. Enter the following command in a terminal :\
+2. **Open the Jupyter Notebook :** Once you have cloned the repository, open Analysis_Prices_Stocks_VS_Revenues_of_Companies.ipynb file using Jupyter Notebook or JupyterLab (enter the following command in a terminal) :\
    jupyter notebook Analysis_Prices_Stocks_VS_Revenues_of_Companies.ipynb
 
 ## Authors
